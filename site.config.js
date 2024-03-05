@@ -6,7 +6,7 @@ const CONFIG = {
     role: "backend developer",
     bio: "I Share Everything Use Brain",
     email: "rakaabdirmp@gmail.com",
-    linkedin: "rakarmp",
+    linkedin: "raka-abdi-rmp-a0771a245",
     github: "rakarmp",
     instagram: "rakarmp",
   },
@@ -55,16 +55,16 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: "rakarmp/rakarmp-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
   },
   cusdis: {
-    enable: false,
+    enable: true,
     config: {
       host: "https://cusdis.com",
-      appid: "", // Embed Code -> data-app-id value
+      appid: "54af81e7-4143-4511-9e28-b07a138476d3", // Embed Code -> data-app-id value
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
