@@ -4,7 +4,7 @@ const CONFIG = {
     name: "rakarmp",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "I Share Everything Use Brain",
+    bio: "Not Fullstack Developer, but Backend Developer with Frontend Skills 🚀",
     email: "rakaabdirmp@gmail.com",
     linkedin: "raka-abdi-rmp-a0771a245",
     github: "rakarmp",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "rakarmp-log",
-    description: "welcome to rakarmp-log!",
+    title: "rakarmp tech",
+    description: "welcome to rakarmp tech!",
   },
 
   // CONFIG configration (required)
